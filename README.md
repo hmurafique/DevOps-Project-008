@@ -1,4 +1,5 @@
-# 🚀 DevOps Project 008 — End-to-End CI/CD Pipeline for Android Apps with GitHub Actions
+# 🚀 DevOps Project 008 
+# End-to-End CI/CD Pipeline for Android Apps with GitHub Actions
 
 <p align="center">
   <img src="https://imgur.com/XNUS0pA.png" alt="Android CI/CD Banner" width="800"/>
